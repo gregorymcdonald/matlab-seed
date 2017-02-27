@@ -2,4 +2,4 @@
 curdir = fileparts(mfilename('fullpath'));
 addpath(genpath(fullfile(curdir, 'functions')));
 
-disp('<Project> Setup Complete.\n');
+disp('Setup Complete.');
